@@ -1,5 +1,13 @@
 # arpans-actuarial-kit
-Provided here is an ever growing assortment of toolkits and examples of analyses that would be done in actuarial science.
+Provided here is an ever growing assortme    
+
+
+dfsdfsdf
+
+dsaas
+ddasda
+
+nt of toolkits and examples of analyses that would be done in actuarial science.
 
 ## EDA Toolkit
 A Python package for quick, comprehensive exploratory data analysis—especially useful in actuarial science for inspecting frequency, severity, exposures, and rating‑factor data.
